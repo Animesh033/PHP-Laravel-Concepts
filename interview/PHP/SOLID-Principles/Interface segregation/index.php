@@ -1,5 +1,5 @@
 <?php
-//segregation = বিভাজন
+//segregation
 // A client should not be foreced to implement an interface that it doesn't use.
 
 // From Laracon

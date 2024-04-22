@@ -1,6 +1,6 @@
 <?php
 
-namespace Interview\PHP\OOP\AbsClass;
+namespace Interview\PHP\OOP\AbstractClass;
 
 // Abstract class representing a shape
 abstract class Shape
@@ -18,3 +18,14 @@ abstract class Shape
         echo 'Class Name: ' . get_called_class() . PHP_EOL;;
     }
 }
+
+
+/*
+$php artisan tinker
+
+> $shape = new Interview\PHP\OOP\AbstractClass\Shape();
+
+   Error  Cannot instantiate abstract class Interview\PHP\OOP\AbstractClass\Shape.
+
+   Note: We can not instantiate abstract class.
+*/

@@ -11,8 +11,8 @@ class Parent_1
     {
         echo $this->fist_name;
     }
-    function set_fist_name($set_this)
+    function setFirstName($setThis)
     {
-        $this->fist_name = $set_this;
+        $this->fist_name = $setThis;
     }
 }

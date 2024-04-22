@@ -1,8 +1,8 @@
 <?php
 
-namespace Interview\PHP\OOP\AbsClass;
+namespace Interview\PHP\OOP\AbstractClass;
 
-use Interview\PHP\OOP\AbsClass\Shape;
+use Interview\PHP\OOP\AbstractClass\Shape;
 
 class Rectangle extends Shape
 {

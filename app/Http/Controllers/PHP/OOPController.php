@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers\PHP;
 
-use Interview\PHP\OOP\AbsClass\Circle;
-use Interview\PHP\OOP\AbsClass\Rectangle;
+use Interview\PHP\OOP\AbstractClass\Circle;
+use Interview\PHP\OOP\AbstractClass\Rectangle;
 use Interview\PHP\OOP\ClassAndObject\ClassAndObjectExample;
 
 class OOPController
